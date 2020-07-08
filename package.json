@@ -1,0 +1,22 @@
+{
+  "name": "naive-blockchain",
+  "version": "1.0.0",
+  "description": "In this repository I am going to build a basic buildchain in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostlypanda/naive-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostlypanda/naive-blockchain/issues"
+  },
+  "homepage": "https://github.com/mostlypanda/naive-blockchain#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
